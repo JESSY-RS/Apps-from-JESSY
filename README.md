@@ -1,22 +1,22 @@
-**★じぇのアプリいろいろ**
+**★じぇのアプリいろいろ**<br>
 
-**DesktopIconFixer for Windows**
-… デスクトップのアイコンの配置を修正するツール
+**DesktopIconFixer for Windows**<br>
+デスクトップのアイコンの配置を修正するツール<br>
 
-**Hide Bar App for Android**
-… ステータスバーを疑似的に非表示にするツール
+**Hide Bar App for Android**<br>
+ステータスバーを疑似的に非表示にするツール<br>
 
-**ImageMergeJ for Windows**
-… 複数の画像を縦もしくは横に結合するツール
+**ImageMergeJ for Windows**<br>
+複数の画像を縦もしくは横に結合するツール<br>
 
-**ImageMergeJ App for Android**
-… 複数の画像を縦もしくは横に結合するツールのAndroid版
+**ImageMergeJ App for Android**<br>
+複数の画像を縦もしくは横に結合するツールのAndroid版<br>
 
-**MP4 Editor App for Android**
-… 動画のトリミングと再生速度を編集できるツール
+**MP4 Editor App for Android**<br>
+動画のトリミングと再生速度を編集できるツール<br>
 
-**MP4SpeedConverter for Windows**
-… 動画の再生速度のみ変更できるツール
+**MP4SpeedConverter for Windows**<br>
+動画の再生速度のみ変更できるツール<br>
 
 <br>**■使用条件**<br>
 ①使用は自己責任<br>
