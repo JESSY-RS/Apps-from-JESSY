@@ -1,4 +1,4 @@
-**★じぇのアプリいろいろ**<br>
+**じぇのアプリいろいろ**<br>
 
 **DesktopIconFixer for Windows**<br>
 デスクトップのアイコンの配置を修正するツール<br>
