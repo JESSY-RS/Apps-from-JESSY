@@ -1,7 +1,7 @@
 **じぇのアプリいろいろ**<br>
 
 **DesktopIconFixer for Windows**<br>
-デスクトップのアイコンの配置を修正するツール<br>
+デスクトップの配置を修正するツール<br>
 
 **Hide Bar App for Android**<br>
 ステータスバーを疑似的に非表示にするツール<br>
