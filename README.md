@@ -19,7 +19,7 @@
 動画の再生速度のみ変更できるツール<br>
 
 **SquareCornersJ for Windows**<br>
-Window11のウィンドウの角を四角くするツール<br>
+Window11のウィンドウの角を四角くするツール(常駐型)<br>
 
 <br>**■使用条件**<br>
 ①使用は自己責任<br>
