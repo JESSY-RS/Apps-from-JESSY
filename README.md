@@ -1,5 +1,8 @@
 **じぇのアプリいろいろ**<br>
 
+**BatteryFullNotifier for Android**<br>
+Android端末で充電完了を通知するツール<br>
+
 **DesktopIconFixer for Windows**<br>
 デスクトップの配置を修正するツール<br>
 
