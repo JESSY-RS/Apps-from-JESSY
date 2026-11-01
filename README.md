@@ -38,7 +38,7 @@ Xの方で投稿しようと思ったのですが、<br>
 
 BatteryFullNotifierとHideBarApp更新しています。<br><br>
 
-**BatteryFullNotifier**<br>
+**BatteryFullNotifier**<br> ※さらに不具合みつかったので公開中止してます。
 一部不具合を修正。<br>
 タイトルをダブルタップで消費アプリに切替可能。<br>
 (表示されるログは意味はなく動いてる風の視覚効果だけです。)<br><br>
